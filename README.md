@@ -1,2 +1,2 @@
 # WEBGL-Fluid-Effect-LivelyWallpaper-
-Fluid Effect WEBGL from LivelyWallpaper
+Fluid Effect Simulation WEBGL from LivelyWallpaper
